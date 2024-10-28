@@ -23,6 +23,7 @@ mem.log.*
 massif.*
 callgrind.*
 perf.data*
+ContactManager.kdev4
 
 # from kdiff3
 *.BACKUP.*
